@@ -1,0 +1,70 @@
+body{
+    font-family: "montserrat", sans-serif;
+    max-width: 70%;
+    margin: auto;
+    margin-bottom: 5rem;
+    color: #333;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+}
+
+.face{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+.title{
+    flex: 1px;
+    margin-left: 20px;
+}
+
+.name{
+    color: gray;
+}
+
+.coral{
+    color: orange;
+}
+
+.qualification{
+    letter-spacing: 1px;
+}
+
+.hrline{
+    border: 1px solid coral;
+}
+
+.table-heading{
+    min-width: 300px;
+    display: block;
+}
+
+.table-props{
+    font-size: 22px;
+    color: coral;
+}
+
+.marginfix{
+    margin-top: 20px;
+}
+
+.jobheading{
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.jobduration{
+    font-weight: 100;
+    font-style: italic;
+    line-height: 30px;
+}
+
+.jobdiscription{
+    margin-top: 15px;
+}
